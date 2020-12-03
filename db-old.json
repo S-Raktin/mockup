@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "cardType": 0,
+      "companyName": "My Company Group Life",
+      "policyNumber": "0011224",
+      "certNumber": "012289",
+      "cardName": {
+          "prename": "",
+          "firstname": "Chai",
+          "lastname": "Raktin"
+      },
+      "effectiveDate": "01/01/2564"
+    },
+    {
+        "cardType": 1,
+        "companyName": "Your Company Management Fee",
+        "policyNumber": "9987564",
+        "certNumber": "543789",
+        "cardName": {
+            "prename": "MR.",
+            "firstname": "STEVE",
+            "lastname": "JOBS"
+        },
+        "effectiveDate": "01/01/221"
+      },
+      {
+        "cardType": 0,
+        "companyName": "My Company Group Life ABC",
+        "policyNumber": "8911224",
+        "certNumber": "782289",
+        "cardName": {
+            "prename": "",
+            "firstname": "Chai.JR",
+            "lastname": "Raktin"
+        },
+        "effectiveDate": "08/12/2564"
+      }
+      ]
+}
